@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 
-- [🎯 Introduction](#introduction)
+- [🎯 Introduction](#-introduction)
 - [📖 Why Blogs Matter](#-why-blogs-matter)
 - [🔥 Must-Read Blogs](#-must-read-blogs)
 - [🌟 Must-Read Articles](#-must-read-articles)
