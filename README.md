@@ -68,6 +68,7 @@ From blogs and academic papers to comprehensive books and courses, we've got all
   - **Books**: Deep dive into smart contract security. [Read more](./Learning_Resources/Books.md)
   - **Courses**: Structured learning for all levels. [Read more](./Learning_Resources/Courses.md)
   - **Papers**: Academic research and whitepapers. [Read more](./Learning_Resources/Papers.md)
+  
 **Keywords**: Blockchain Education, Smart Contract Courses, Ethereum Development
 
 ---
