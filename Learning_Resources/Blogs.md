@@ -3,18 +3,18 @@
 ## 📚 Table of Contents
 
 - [🎯 Introduction](#introduction)
-- [📖 Why Blogs Matter](#Why-Blogs-Matter)
-- [🔥 Must-Read Blogs](#must-read-blogs)
-- [🌟 Must-Read Articles](#must-read-articles)
-- [🌐 Additional Blogs](#additional-blogs)
-- [🔗 Conclusion & Further Reading](#conclusion--further-reading)
+- [📖 Why Blogs Matter](#-why-blogs-matter)
+- [🔥 Must-Read Blogs](#-must-read-blogs)
+- [🌟 Must-Read Articles](#-must-read-articles)
+- [🌐 Additional Blogs](#-additional-blogs)
+- [🔗 Conclusion & Further Reading](#-conclusion--further-reading)
 
 ## 🎯 Introduction
 
 Welcome to the ultimate list of blogs focusing on Smart Contract Security! Whether you're a developer, a security analyst, or just an enthusiast, these blogs will provide you with insights into the best practices, vulnerabilities, and cutting-edge techniques in smart contract security.
 
 
-## 📈 Why Blogs Matter 📈
+## 📈 Why Blogs Matter
 
 - **Quick Updates**: Blogs are often the first to report on new vulnerabilities and trends.
 - **Practical Advice**: Many blogs offer actionable tips and code snippets.
@@ -58,12 +58,11 @@ Welcome to the ultimate list of blogs focusing on Smart Contract Security! Wheth
 - **Topics Covered**: Vulnerabilities, Security Risks
 - **Link**: [Smart Contract Vulnerabilities: A Comprehensive Guide](https://www.toptal.com/ethereum-smart-contract-security-best-practices)
 
-## 🌟 Must-Read Articles 🌟
+## 🌟 Must-Read Articles
 
 - [Understanding Reentrancy Attacks](https://diligence.consensys.net/blog/2019/09/stop-using-low-level-calls/)
 - [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
 - [Smart Contract Security Best Practices](https://blog.trailofbits.com/2020/03/16/how-to-prevent-smart-contract-bugs/)
-
 
 
 ## 📖 Additional Blogs
@@ -86,6 +85,6 @@ Welcome to the ultimate list of blogs focusing on Smart Contract Security! Wheth
 Smart contract security is a rapidly evolving field, and staying updated is crucial. The blogs listed above offer a wealth of information, from beginner guides to advanced techniques, to help you stay ahead in the game. For more resources, you can refer to the [Learning Resources README](./README.md).
 
 
-## 🙏 Want to Contribute? 🙏
+## 🙏 Want to Contribute?
 
 If you come across any blog that you think should be featured here, feel free to contribute or reach out to us!
