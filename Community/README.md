@@ -4,10 +4,9 @@
 
 - [🎯 Introduction](#-introduction)
 - [🎪 Conferences & Events](#-conferences--events)
-- [💬 Forums & Social Media](#-forums--social-media)
-- [📢 Newsletters & Blogs](#-newsletters--blogs)
 - [🔍 Job Boards](#-job-boards)
-- [👥 Open Source Projects](#-open-source-projects)
+- [🚩 CTFs / Wargames](#-ctfs--wargames)
+- [🎙 Talks/Podcasts](#-talkspodcasts)
 - [🔗 Conclusion & Further Reading](#-conclusion--further-reading)
 - [🙏 Want to Contribute?](#-want-to-contribute)
 
@@ -19,21 +18,17 @@ Welcome to the `Community` directory! This is your hub for everything related to
 
 Stay updated with the latest conferences, webinars, and events that focus on smart contract security. Networking is key, and there's no better place to meet experts and enthusiasts alike. Check out the [Conferences & Events Section](./Conferences_Events.md) for more details.
 
-## 💬 Forums & Social Media
-
-Join the conversation on various platforms where smart contract security is a hot topic. From Reddit threads to Discord channels, we've listed them all. Dive into the [Forums & Social Media Section](./Forums_SocialMedia.md) to find out more.
-
-## 📢 Newsletters & Blogs
-
-Keep up with the latest news, articles, and updates in the world of smart contract security. Subscribe to newsletters or follow blogs that offer valuable insights. Visit the [Newsletters & Blogs Section](./Newsletters_Blogs.md) for more information.
-
 ## 🔍 Job Boards
 
 Looking for a job in smart contract security? We've curated a list of job boards that regularly feature openings in this field. Check out the [Job Boards Section](./Job_Boards.md) for current opportunities.
 
-## 👥 Open Source Projects
+## 🚩 CTFs / Wargames
 
-Contribute to or learn from open-source projects that are making a difference in smart contract security. Open source is the backbone of the community, and your contributions are always welcome. See the [Open Source Projects Section](./OpenSource_Projects.md) for more details.
+Capture the Flag competitions and wargames are excellent ways to hone your skills in smart contract security. Get hands-on experience and learn by doing. Visit the [CTFs / Wargames Section](./CTFs_Wargames.md) for more information.
+
+## 🎙 Talks/Podcasts
+
+Listen to experts discuss the latest trends, vulnerabilities, and best practices in smart contract security. Whether you're commuting or just relaxing, these talks and podcasts are a great way to stay updated. Check out the [Talks/Podcasts Section](./Talks_Podcasts.md) for more details.
 
 ## 🔗 Conclusion & Further Reading
 
