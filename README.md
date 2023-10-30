@@ -148,7 +148,7 @@ Stay up-to-date with the latest additions and updates to this repository.
 
 ## 🙏 Want to Contribute?
 
-We welcome contributions! Feel free to open a pull request or reach out to us.
+We welcome contributions! Feel free to open a pull request or reach out to us. For more details on how to contribute, check out our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ---
 
