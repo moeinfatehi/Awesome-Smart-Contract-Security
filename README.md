@@ -7,27 +7,31 @@
 
 - [🎯 Introduction](#-introduction)
 - [🤝 How This Repo Can Help](#-how-this-repo-can-help)
-- [🔒 Vulnerabilities](#-vulnerabilities)
-  - [Common Vulnerabilities](#common-vulnerabilities)
-- [📖 Learning Resources](#-learning-resources)
-  - [Blogs](#blogs)
-  - [Books](#books)
-  - [Courses](#courses)
-  - [Papers](#papers)
-- [🛠️ Technical Resources](#-technical-resources)
-  - [Smart Contract Auditing Companies](#smart-contract-auditing-companies)
-  - [Smart Contract Auditing Tools](#smart-contract-auditing-tools)
-  - [Security Best Practices](#security-best-practices)
-  - [Public Audit Reports](#public-audit-reports)
+- [🐛 Vulnerabilities](#-vulnerabilities)
+  - [Discover Vulnerabilities](./Vulnerabilities/README.md)
+- [📚 Learning Resources](#-learning-resources)
+  - [Blogs](./Learning_Resources/Blogs.md)
+  - [Books](./Learning_Resources/Books.md)
+  - [Courses](./Learning_Resources/Courses.md)
+  - [Papers](./Learning_Resources/Papers.md)
+- [🔬 Technical Resources](#-technical-resources)
+  - [Public Audit Reports](./Technical_Resources/Public_Audit_Reports.md)
+  - [Security Best Practices](./Technical_Resources/Security_Best_Practices.md)
+  - [Smart Contract Auditing Companies](./Technical_Resources/Smart_Contract_Auditing_Companies.md)
+  - [Smart Contract Auditing Tools](./Technical_Resources/Smart_Contract_Auditing_Tools.md)
 - [🌐 Community Resources](#-community-resources)
-  - [Conferences & Events](#conferences--events)
-  - [Job Boards](#job-boards)
-  - [CTFs / Wargames](#ctfs--wargames)
-  - [Talks/Podcasts](#talkspodcasts)
+  - [Conferences & Events](./Community/Conferences_Events.md)
+  - [Job Boards](./Community/Job_Boards.md)
+  - [CTFs & Wargames](./Community/CTFs_Wargames.md)
+  - [Talks & Podcasts](./Community/Talks_Podcasts.md)
 - [🛣️ Recommended Learning Path](#-recommended-learning-path)
-- [📜 Changelog](#-changelog)
+- [📝 Changelog](#-changelog)
+  - [Check it out here](./Changelog/README.md)
 - [🙏 Want to Contribute?](#-want-to-contribute)
-- [📝 License](#-license)
+  - [Contribution Guidelines](./CONTRIBUTING.md)
+- [📜 License](#-license)
+  - [Read License](./LICENSE)
+
 
 ---
 
@@ -68,7 +72,7 @@ From blogs and academic papers to comprehensive books and courses, we've got all
   - **Books**: Deep dive into smart contract security. [Read more](./Learning_Resources/Books.md)
   - **Courses**: Structured learning for all levels. [Read more](./Learning_Resources/Courses.md)
   - **Papers**: Academic research and whitepapers. [Read more](./Learning_Resources/Papers.md)
-  
+
 **Keywords**: Blockchain Education, Smart Contract Courses, Ethereum Development
 
 ---
