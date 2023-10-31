@@ -1,7 +1,7 @@
 # 🛡️ Awesome Smart Contract Security: Your Ultimate Guide 🛡️
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/Awesome-Smart-Contract-Security)
-![GitHub license](https://img.shields.io/github/license/your-username/Awesome-Smart-Contract-Security)
+![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/Awesome-Smart-Contract-Security)
+![GitHub license](https://img.shields.io/github/license/moeinfatehi/Awesome-Smart-Contract-Security)
 
 ## 📚 Table of Contents
 
